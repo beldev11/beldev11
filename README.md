@@ -7,7 +7,7 @@
 - ♡ Atualmente trabalho como Dev RPA
 - ♡ Estudando Javascript/React/HTML/CSS
 - ♡ Pronomes: ela/dela
-- ♡ Adoro bichinhos, principalmente gatos
+- ♡ Gosto de gatos e K-pop
 
 ##
 
