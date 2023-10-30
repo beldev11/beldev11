@@ -1,55 +1,42 @@
-### Olá, eu sou Bel 👋 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b797bf&height=120&section=header"/>
 
-
-- 🔭 Procurando vaga/estágio para dev
-- 📝 Estudando Javascript
-- 😄 Pronouns: ela/dela
-- ✨ Adoro bichinhos, principalmente gatos
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Isabel;Tenho+22+anos;Sou+do+Brasil;Eu+curso+Análise+e+Desenvolvimento+de+Sistemas;Bem+Vindo!+xp)](https://git.io/typing-svg)
 
 ##
 
- <div>
-  <a href="https://github.com/beldev11">
-  <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=beldev11&show=reviews&theme=tokyonight"/>
-  <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beldev11&layout=donut&langs_count=5&theme=tokyonight&hide_progress=false"/>
-  
-       
+- ♡ Atualmente trabalho como Dev RPA
+- ♡ Estudando Javascript/React/HTML/CSS
+- ♡ Pronomes: ela/dela
+- ♡ Adoro bichinhos, principalmente gatos
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beldev11&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beldev11&show_icons=true&count_private=true&hide_border=true&title_color=b797bf&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beldev11&layout=compact&hide_border=true&title_color=b797bf&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- <img align="right" alt="cat-logo" height="60 " width=60" src="https://em-content.zobj.net/source/microsoft-teams/337/cat-face_1f431.png">  
-  </div>
-  
-  ##
-  
-  <div>
-  <a href = "mailto:mariaicorrea20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lukadev08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="os"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-  <a href="os"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-  <a href="os"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="os"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="os"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  
 
-  </div>
-  
-  <br>
-  <br>
-
-
-<div>
-  
-  
-</div>
-  <br><br><br><br><br><br><br><br><br>
-  
-  
-  <h1 align='center'>😊<i>Obrigado por visitar!</i>😊</h1>
-  
+<div align="center"> 
+<a href="https://www.linkedin.com/in/mcorrea20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  
-<img  src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
-</div>
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+##
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
